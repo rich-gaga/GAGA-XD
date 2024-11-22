@@ -1,4 +1,4 @@
-<a><img src='https://files.catbox.moe/sfk02i.jpg'/></a><a><img src=''/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src=''/></a>
 
 
 <p align="center">                                                  GAGA-XD 
@@ -44,7 +44,7 @@
 
 2. `If You Have a Heroku Account`
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SIMON32883/MR-ANYWAY-MD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://https://github.com/rich-gaga/GAGA-XD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 #### DEPLOY ON RENDER 
