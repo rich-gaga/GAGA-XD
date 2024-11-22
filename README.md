@@ -1,20 +1,20 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src=''/></a>
+<a><img src='https://files.catbox.moe/sfk02i.jpg'/></a><a><img src=''/></a>
 
 
-<p align="center">                                                  𝗔𝗡𝗬𝗪𝗔𝗬 𝗠𝗗-𝗩𝟭 
+<p align="center">                                                  GAGA-XD 
   
 
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09">
-    <img alt=Support height="390" src="https://files.catbox.moe/ir4ejb.png"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/sfk02i.jpg"> 
     </p>
  
  
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+ANYWAY-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+GAGA-XD+MADE+IN+KENYA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
 
 
 
