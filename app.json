@@ -1,9 +1,9 @@
 {
-  "name":"ANYWAY-MD-V1",
-  "description":"Best whatsapp bot developed by mr anyway ",
+  "name":"GAGA-XD",
+  "description":"multipurpose whatapp bot developed by Richard Gaga",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/ir4ejb.png",
-  "repository":"https://github.com/SIMON32883/MR-ANYWAY-MD",
+  "repository":"https://github.com/rich-gaga/GAGA-XD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"-ANYWAY-MD",
+      "value":"GAGA-XD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Anyway"
+    "value": "Gaga"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255678892560,"
+    "value": "254112291443,"
   },
     "WARN_COUNT":
   {
