@@ -1,42 +1,24 @@
-const googleit = require("google-it");
+module.exports = async (context) => {
 
-module.exports = {
-    name: "google",
-    alias: ["search"],
-    desc: "Search something in google",
-    category: "Search",
-    usage: `google <search term>`,
-    react: "🍁",
-    start: async (Miku, m, { text, prefix, args }) => {
-      if (!args[0])
-        return Miku.sendMessage(
-          m.from,
-          { text: `Please provide a Search Term !` },
-          { quoted: m }
-        );
-      var googlesearchTerm = args.join(" ");
+const { client, m, text } = context;
 
-        var googleSearch = await googleit({ query: googlesearchTerm }).then(
-            (response) => response
-            ).catch((error) => {
-            console.log(error);
-            });
-
-        let resText = `  *『  ⚡️ Google Search Engine ⚡️  』*\n\n\n_🔍 Search Term:_ *${googlesearchTerm}*\n\n\n`
-
-        for(num=0; num<10; num++){
-            resText += `_📍 Result:_ *${num+1}*\n\n_🎀 Title:_ *${googleSearch[num].title}*\n\n_🔶 Description:_ *${googleSearch[num].snippet}*\n\n_🔷 Link:_ *${googleSearch[num].link}*\n\n\n`;
+const axios = require("axios");
+        if (!text) {
+            m.reply('Provide a search term!\nEg: .Google What is treason')
+            return;
         }
+        let {
+            data
+        } = await axios.get(`https://www.googleapis.com/customsearch/v1?q=${text}&key=AIzaSyDMbI3nvmQUrfjoCJYLS69Lej1hSXQjnWI&cx=baf9bdb0c631236e5`)
+        if (data.items.length == 0) {
+            m.reply("👺 Unable to find a result")
+            return;
+        }
+        let tex = `GOOGLE SEARCH\n🔍 Term:- ${text}\n\n`;
+        for (let i = 0; i < data.items.length; i++) {
+            tex += `🪧 Title:- ${data.items[i].title}\n🖥 Description:- ${data.items[i].snippet}\n🌐 Link:- ${data.items[i].link}\n\n`
+        }
+        m.reply(tex)
+       
 
-      await Miku.sendMessage(
-        m.from,
-        {
-          video: {url: 'https://media.tenor.com/3aaAzbTrTMwAAAPo/google-technology-company.mp4'},
-          gifPlayback: true,
-          caption: resText,
-        },
-        { quoted: m }
-      );
-    },
-  };
-  
+}
