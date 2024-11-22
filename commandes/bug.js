@@ -39,14 +39,14 @@ let infoMsg =  `
 ❐ crash
 ❐ loccrash
 ❐ amountbug <amount>
-❐ crashbug 25XXXX
-❐ pmbug 255XXXX
-❐ delaybug 255XXXX
-❐ trollybug 255XXXX
-❐ docubug 255XXXX
-❐ unlimitedbug 255XXXX
-❐ bombug 255XXXX
-❐ lagbug 255XXXX
+❐ crashbug 254XXX
+❐ pmbug 254XXXX
+❐ delaybug 254XXXX
+❐ trollybug 254XXXX
+❐ docubug 254XXXX
+❐ unlimitedbug 254XXXX
+❐ bombug 254XXXX
+❐ lagbug 254XXXX
 ❐ gcbug <grouplink>
 ❐ delaygcbug <grouplink>
 ❐ trollygcbug <grouplink>
@@ -65,10 +65,7 @@ let menuMsg = `
 
 ╔═══════════╗
 ║██░░░░░░░░░╚╗
-║██░ Low Battery ░║
-║██░░░░░░░░░╔╝
-╚═══════════╝
-
+XGAGA XCRASHER DESTROY
 
 > ©ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ ᴘʀᴏᴅᴜᴄᴛs
 
