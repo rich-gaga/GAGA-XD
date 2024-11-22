@@ -22,7 +22,7 @@ module.exports = async _0x4d2435 => {
     }
     let _0x3439a2 = await _0x4d8115.downloadAndSaveMediaMessage(_0x2e81f7.quoted);
     let _0x3dfb7c = await _0xaa24e9(_0x3439a2);
-    _0x2e81f7.reply("A moment, keith is analyzing contents of the image. . .");
+    _0x2e81f7.reply("A moment, Gaga is analyzing contents of the image. . .");
     const _0x4e9e6a = new _0x817910("AIzaSyCcZqDMBa8FcAdBxqE1o6YYvzlygmpBx14");
     async function _0x309a3c(_0x1400ed, _0x1a081e) {
       const _0x53e4b2 = {
