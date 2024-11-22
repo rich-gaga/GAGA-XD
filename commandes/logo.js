@@ -91,10 +91,10 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
 zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk, commandeOptions) => {
     let { arg, repondre, prefixe, ms } = commandeOptions;
    try {
-     var titre = "\t* logo by ANYWAY-Md*";
+     var titre = "\t* logo by GAGA-XD*";
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
-           repondre(`*exemple :* ${prefixe}didong ibrahim adams`)
+           repondre(`*exemple :* ${prefixe}didong RIchard Gaga`)
             return ;
         }
      
@@ -487,7 +487,7 @@ zokou({nomCom:"incandescent",categorie:"Logo",reaction:"😋"},async(dest,zk,com
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"incandescent Bmw-MD");return;
+        repondre(prefixe+"incandescent GAGA-XD");return;
       }
 
     var lien="https://en.ephoto360.com/text-effects-incandescent-bulbs-219.html";
