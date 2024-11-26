@@ -30,7 +30,7 @@
  
 
 
-[`PAIRING CODE`](https://away-0t9v.onrender.com)
+[`PAIRING CODE`](https://xgaga-session.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
