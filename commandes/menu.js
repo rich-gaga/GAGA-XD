@@ -66,9 +66,149 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-╔════➻⊷➻════──❂
-XGAGA CRASHER
-   var lien = mybotpic();
+```~┏━━━━━━━━━━━━━━━━
+♞ Creator:$
+♞ Ping: $$$$
+♞ Time:$$$$$ 
+♞ Date: $$$$$$
+
+I'M ABOUT TO $$$$$✫  
+
+┏━✿ Owner Menu
+┃♘ .Public
+┃♘ .Self
+┃♘ .Setbio
+┃♘ .Vision
+┃♘ .Del
+┃♘ .Join
+┃♘ .Leave
+┃♘ .Getip
+┃♘ .Unblock
+┃♘ .Block
+┃♘ .Setsudo
+┃♘ .Delsudo
+┃♘ .Getsudo
+┃♘ .Listblock
+┗━━━━━━━━━━━━━━━━━
+
+┏━✿ Download Menu
+┃♘ .Play <query>
+┃♘ .igdl <link>
+┃♘ .aio <link>
+┃♘ .Fb <link>
+┃♘ .Tiktok <link>
+┃♘ .Tiktok2 <link>
+┃♘ .Ttdl3 <link>
+┃♘ .Mediafire <link>
+┃♘ .Gitclone <link>
+┃♘ .Ytmp4 <link>
+┃♘ .Ytmp3 <link>
+┃♘ .Yts <query>
+┃♘ .Tiktokvid <query>
+┃♘ .Xvideodl <link>
+┗━━━━━━━━━━━━━━━━━
+
+┏━✿ Arch Menu
+┃♘ .Ping
+┃♘ .Runtime
+┃♘ .Bot
+┃♘ .Ai
+┃♘ .Chatgpt
+┃♘ .Arch
+┗━━━━━━━━━━━━━━━━━
+
+┏━✿ Group Menu
+┃♘ .Hidetag
+┃♘ .Tagall
+┃♘ .Tagadmin
+┃♘ .Grouplink
+┃♘ .Revoke
+┃♘ .Add
+┃♘ .Kick
+┃♘ .Promote
+┃♘ .Demote
+┃♘ .Mute
+┃♘ .Invite
+┃♘ .Antilink
+┃♘ .Unmute
+┃♘ .Closetime
+┃♘ .Opentime
+┃♘ .Welcome
+┗━━━━━━━━━━━━━━━━━
+
+┏━✿ Convert Menu
+┃♘ .sticker
+┃♘ .toimg
+┃♘ .tomp3
+┃♘ .tovn
+┃♘ .tovv
+┃♘ .Write
+┃♘ .tourl
+┗━━━━━━━━━━━━━━━━━
+
+┏━✿ search Menu
+┃♘ .stickersearch <query>
+┃♘ .xnxxsearch <query>
+┃♘ .xvideosearch <query>
+┃♘ .npmsearch <query>
+┃♘ .githubsearch <query>
+┗━━━━━━━━━━━━━━━━━
+
+┏━✿ Logo Menu
+┃♘ .writetext
+┃♘ .advancedglow
+┃♘ .typographytext
+┃♘ .pixelglitch
+┃♘ .neonglitch
+┃♘ .flagtext
+┃♘ .flag3dtext
+┃♘ .deletingtext
+┃♘ .blackpinkstyle
+┃♘ .glowingtext
+┃♘ .underwatertext
+┃♘ .logomaker
+┃♘ .cartoonstyle
+┃♘ .papercutstyle
+┃♘ .watercolortext
+┃♘ .effectclouds
+┃♘ .blackpinklogo
+┃♘ .gradienttext
+┃♘ .summerbeach
+┃♘ .luxurygold
+┃♘ .multicoloredneon
+┃♘ .sandsummer
+┃♘ .galaxywallpaper
+┃♘ .1917style
+┃♘ .makingneon
+┃♘ .royaltext
+┃♘ .freecreate
+┃♘ .galaxystyle
+┃♘ .lighteffects
+┗━━━━━━━━━━━━━━━━━
+
+┏━✿ Other Menu
+┃♘ .getdevice
+┃♘ .Owner
+┃♘ .Creator
+┃♘ .Ednut
+┃♘ .Trackip
+┃♘ .Report
+┃♘ .readmore
+┃♘ .Vv
+┃♘ .Fancy
+┃♘ .Charge
+┃♘ .Support
+┃♘ .Take
+┃♘ .Getpp
+┃♘ .Weather
+┃♘ .Translate
+┃♘ .Aiimage
+┃♘ .Test
+┗━━━━━━━━━━━━━━━━━
+> GAGA BOTS~``` 
+    
+  
+  var lien = mybotpic();
 
 
 
