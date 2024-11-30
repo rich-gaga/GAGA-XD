@@ -12,6 +12,11 @@
       "description":"choose your prefix of bot",
       "value":".",
       "required":true
+     },
+    "AUTO_LIKE_STATUS": {
+      "description": "Your contact status will be liked automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
+      "value": "yes",
+      "required": false
     },
     "AUTO_READ_STATUS":
     {
