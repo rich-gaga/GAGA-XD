@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *TOSH MD IMPORTANT INFO* 
+   *XGAGA GIT* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/SIMON32883/MR-ANYWAY-MD
+> https://github.com/rich-gaga/GAGA-XD 
 
-*WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h
-⁠
+*WHATSAPP CHANNEL*
+> https://whatsapp.com/channel/0029VasnifMFi8xW4Mqysn2F
+
+⁠*WHATSAPP GROUP*
+> https://chat.whatsapp.com/JP0tus4T1Hm6gnwuIRmaIW
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mr anyway*
-│❒⁠⁠⁠⁠ *DEV2* : *Baraka Bega*
-⁠⁠⁠⁠╰───────────────────❒
+│
   `;
     
 let menuMsg = `
-     *Anyway Tech*
+*POWERED BY GAGA*
 
 ❒────────────────────❒`;
 
